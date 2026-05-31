@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokensync",
+        "uuid": 1328366,
+        "checksum": "fjonvd"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
